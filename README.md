@@ -20,9 +20,7 @@ Este repositório contém a modelagem de um banco de dados para um mercado de ba
 
 ## 📌 Estrutura do Banco de Dados
 
-O banco de dados **HortFruit** contém as seguintes tabelas principais:
-
-### 🎯 Tabelas Principais
+### 🎯 Tabelas
 
 - **cliente**: Contém informações sobre os clientes, incluindo CPF, nome, endereço, telefone e pontos de fidelidade.
 - **categoria**: Classifica os produtos vendidos no mercado.
